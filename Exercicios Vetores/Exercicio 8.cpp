@@ -6,7 +6,7 @@ int main() {
 	double vet[4] = {1,2,3,4};
 	int i,n = 0;
 	
-	cout << "Digite um número: ";
+	cout << "Digite um numero: ";
 	cin >> n;
 	
 	for(i = 0; i < 4; i++) {
