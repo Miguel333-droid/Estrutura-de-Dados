@@ -5,12 +5,12 @@ using namespace std;
 int main() {
 	
 		int n,i = 0;
-		double vet[8];
+		double vet[5];
 		
 		
 		
 		
-		for (i = 0; i < 8; i++) {
+		for (i = 0; i < 5; i++) {
 			cout << "Digite a posicao " << i << "  do vetor: ";
 			cin >> vet[i];
 			
@@ -20,7 +20,7 @@ int main() {
 			}
 		}
 		
-		cout << "A maio número digitado foi: " << n;
+		cout << "O maior número digitado foi: " << n;
 		
 	
 		

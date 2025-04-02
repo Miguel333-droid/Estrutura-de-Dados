@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-	int  vet1[3] = {1,2,3,};
-	int  vet2[3] = {1,2,3,};
+	int  vet1[3] = {786,2,86};
+	int  vet2[3] = {1,2,3};
     int  vet3[3];
     int i;
     
